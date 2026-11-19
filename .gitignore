@@ -1,0 +1,30 @@
+# IDE / Eclipse / SpinRCP
+.project
+.classpath
+.settings/
+.metadata/
+*.launch
+
+# SPIN generated files
+pan
+pan.c
+pan.h
+pan.m
+pan.b
+pan.p
+pan.t
+_pan*
+
+# Compiled files
+*.o
+*.out
+*.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*~
